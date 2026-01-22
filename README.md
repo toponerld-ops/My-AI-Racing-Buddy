@@ -1,2 +1,25 @@
-# My-AI-Racing-Buddy
-I love FPV racing (never actually flew or built one but love watchin them hopin i can finally build them ) but have no one to race with. So I'm building my own AI opponent. One drone I control with my transmitter, the other is controlled by a Raspberry Pi that watches the FPV feed and tries to follow/race me. Finally gonna have a racing buddy!
+-- My AI Racing Buddy (or ash) --
+
+Building an AI-controlled FPV racing drone to be my racing partner since I have no one to race with.
+
+The Setup
+- **Drone 1 (Me):** Controlled with my Avionic transmitter
+- **Drone 2 (AI):** Controlled by Raspberry Pi with computer vision
+- **Ground Station:** Pi processes FPV feeds, sends commands
+
+Why?
+I love FPV racing but it's boring alone. Building my own opponent!
+
+Tech Stack
+- 75mm brushless whoops
+- Raspberry Pi 4 + GPS + camera
+- OpenCV for drone tracking
+- Custom 3D printed frames
+
+Progress
+- [ ] Design drone frames in Fusion 360
+- [ ] Design ground station case
+- [ ] Order parts
+- [ ] Build drones
+- [ ] Code AI control
+- [ ] First race!

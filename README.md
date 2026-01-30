@@ -49,3 +49,8 @@ Custom tuning done after test flights.
 | Camera | Matrix FC cam input |
 | Battery | Matrix FC BAT input |
 | (Matrix has built-in VTX, RX, ESC) |
+
+## Phase 1: Single Drone Build
+Building ONE real drone first with virtual AI opponent.
+Ground station (Raspberry Pi) will be added in future 
+phase - for now AI runs on laptop with camera feed.

@@ -18,8 +18,7 @@ Tech Stack
 
 Progress
 - [ ] Design drone frames in Fusion 360
-- [ ] Design ground station case
 - [ ] Order parts
-- [ ] Build drones
+- [ ] Build drone
 - [ ] Code AI control
 - [ ] First race!

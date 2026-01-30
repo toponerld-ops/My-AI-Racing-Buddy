@@ -41,3 +41,11 @@ Uses **Betaflight 4.5.0** (pre-installed on Matrix FC).
 
 Default configuration works out of the box. 
 Custom tuning done after test flights.
+
+## Wiring
+| Component | Connects To |
+|-----------|-------------|
+| Motors 1-4 | Matrix FC motor pads |
+| Camera | Matrix FC cam input |
+| Battery | Matrix FC BAT input |
+| (Matrix has built-in VTX, RX, ESC) |

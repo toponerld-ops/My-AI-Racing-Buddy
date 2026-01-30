@@ -35,4 +35,9 @@ Custom-designed every component from scratch:
 - Integrated camera canopy
 - Optimized for 0802SE motors + Matrix FC
 
-Ready for 3D printing and assembly!
+## Firmware
+
+Uses **Betaflight 4.5.0** (pre-installed on Matrix FC).
+
+Default configuration works out of the box. 
+Custom tuning done after test flights.

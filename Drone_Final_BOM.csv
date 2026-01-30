@@ -1,15 +1,14 @@
-Product name,Product description,Product link,Product unit price,Product amount,Product running total
-Radiomaster Pocket,ELRS Version (Transparent),https://robu.in/product/radiomaster-pocket-radio-controller-elrs-transparent/,6389.00,1,6389.00
-Matrix 1S Flight Controller,AIO Flight Controller,https://betafpv.com/products/matrix-1s-brushless-flight-controller?variant=42995716980870,4577.00,1,10966.00
-LAVA 1S 450mAh Battery,High-discharge LiPo,https://betafpv.com/products/lava-1s-450mAh-75c-battery-4pcs?variant=40376140398726,503.38,8,14993.04
-0802SE Brushless Motors,22000KV Motors,https://betafpv.com/products/0802se-22000kv-brushless-motors?variant=40069450694790,892.50,4,18563.04
-VR02 FPV Goggles,FPV Video Headset (Out of Stock),https://betafpv.com/products/vr02-fpv-goggles,5047.69,1,23610.73
-Camera C03,FPV Micro Camera,https://betafpv.com/products/c03-fpv-micro-camera?variant=39989804499078,1098.00,1,24708.73
-Gemfan 1219S Propellers,31mm 3-Blade Props,https://betafpv.com/products/gemfan-1219s-3-blade-propellers-1-0mm-shaft?variant=41018473054342,51.44,16,25531.77
-Parallel board,1S LiPo Charging Board,https://robu.in/product/1s-lipo-lihv-battery-parallel-charging-board-v2-bt2-0-ph2-0/,1034.00,1,26565.77
-BT2.0 Whoop Cable Pigtail,Battery Connector (Pack of 6),https://robu.in/product/betafpv-bt2-0-whoop-cable-pigtail-6pcs/,549.84,1,27115.61
-22AWG Ultra Flexible Black,Power Wiring (Negative),https://robu.in/product/high-quality-ultra-flexible-22awg-silicone-wire-1000m-black/,18.00,3,27169.61
-22AWG Ultra Flexible Red,Power Wiring (Positive),https://robu.in/product/high-quality-ultra-flexible-22awg-silicone-wire-1500m-red/,18.00,3,27223.61
-30AWG Ultra Flexible Red,Signal/Camera Wiring,https://robu.in/product/30awg-high-quality-ultra-flexible-silicone-wire-red/,5.00,4,27243.61
-Air75 II Frame,Whoop Frame,https://betafpv.com/products/air75-ii-brushless-whoop-frame?variant=42083839213702,457.00,1,27700.61
-Micro Camera Canopy,Canopy for Camera,https://betafpv.com/products/canopy-for-micro-camera-2022?variant=39858774966406,365.00,1,28065.61
+Product name,Product description,Product link,Unit Price (INR),Amount,Total (INR)
+Radiomaster Pocket,ELRS Controller (Transparent),https://robu.in/product/radiomaster-pocket-radio-controller-elrs-transparent/,6389.00,1,6389.00
+Matrix 1S FC,AIO Flight Controller,https://betafpv.com/products/matrix-1s-brushless-flight-controller,4588.72,1,10977.72
+LAVA 1S 450mAh Battery,High-discharge LiPo (4-Pack),https://betafpv.com/products/lava-1s-450mAh-75c-battery-4pcs,1009.26,2,12996.24
+0802SE Brushless Motors,19500KV (2022 Version),https://betafpv.com/products/0802se-brushless-motors-2022-version,3579.00,1,16575.24
+VR02 FPV Goggles,Video Headset (Direct),https://betafpv.com/products/vr02-fpv-goggles,5047.69,1,21622.93
+BetaFPV 6-Port Charger,1S LiPo/LiHV Charger & Adapter,https://betafpv.com/products/bt2-0-ph2-0-1s-lipo-charger-adapter,1101.00,1,22723.93
+APFEN 30W Power Brick,USB-C PD Wall Adapter,https://www.amazon.in/Original-Rapidly-Charging-Compatible-Devices/dp/B0FBKDLD4T,639.00,1,23362.93
+Camera C03,FPV Micro Camera,https://betafpv.com/products/c03-fpv-micro-camera,1098.00,1,24460.93
+BT2.0 Whoop Pigtail,Battery Connector (Pack of 6),https://robu.in/product/betafpv-bt2-0-whoop-cable-pigtail-6pcs/,549.84,1,25010.77
+22AWG Flex Wire Black,Power Wiring (Negative),https://robu.in/product/high-quality-ultra-flexible-22awg-silicone-wire-1000m-black/,18.00,3,25064.77
+22AWG Flex Wire Red,Power Wiring (Positive),https://robu.in/product/high-quality-ultra-flexible-22awg-silicone-wire-1500m-red/,18.00,3,25118.77
+30AWG Flex Wire Red,Signal/Camera Wiring,https://robu.in/product/30awg-high-quality-ultra-flexible-silicone-wire-red/,5.00,4,25138.77
+Air75 II Frame,75mm Whoop Frame,https://betafpv.com/products/air75-ii-brushless-whoop-frame,457.00,1,25595.77
